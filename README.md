@@ -1,5 +1,20 @@
-# .github
-
-*Community health files for the [@GitHub](https://github.com/github) organization*
-
-For more information, please see the article on [creating a default community health file for your organization](https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization).
+https://t.me/c/2054805850/12240    "version": 2,
+    "axioms": {},
+    "rules": {
+        "license-file-is-MIT": {
+            "level": "warning",
+            "rule": {
+                "type": "file-contents",
+                "options": {
+                    "globsAll": ["LICENSE*", ,
+           "nocase": true,    "$schema": "https://raw.githubusercontent.com/prototypicalpro/repolinter/master/hkazemi689.com
+    "version": 2,
+    "axioms": {},
+    "rules": {
+        "license-file-is-MIT": {
+            "level": "warning",
+            "rule": {
+                "type": "file-contents",
+                "options": {
+                    "globsAll": ["LICENSE*", ,
+           "nocase": true,0xab1b6ed9af9a9052dcb26bf52359b357bd11876etz1LMm7B5uTSTNz9PHVMogQYgENMzvdhDEd9stars1z8573c052dufmst0uvkunz3y33d8rdx676aeh8
