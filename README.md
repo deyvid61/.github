@@ -1,4 +1,4 @@
-https://t.me/c/2054805850/12240    "version": 2,
+https://t.me/c/davoukazemi1361    "version": 2,
     "axioms": {},
     "rules": {
         "license-file-is-MIT": {
