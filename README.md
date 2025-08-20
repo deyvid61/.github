@@ -1,13 +1,4 @@
-https://t.me/c/davoukazemi1361    "version": 2,
-    "axioms": {},
-    "rules": {
-        "license-file-is-MIT": {
-            "level": "warning",
-            "rule": {
-                "type": "file-contents",
-                "options": {
-                    "globsAll": ["LICENSE*", ,
-           "nocase": true,    "$schema": "https://raw.githubusercontent.com/prototypicalpro/repolinter/master/hkazemi689.com
+https://deyvid61.githubusercontent.com/prototypicalpro/repolinter/master/hkazemi689.com
     "version": 2,
     "axioms": {},
     "rules": {
