@@ -1,4 +1,4 @@
-https://deyvid61.github.com/prototypicalpro/repolinter/master/hkazemi689.com
+https://deyvid61/master/hkazemi689.com
     "version": 2,
     "axioms": {},
     "rules": {
